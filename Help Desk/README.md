@@ -1,8 +1,12 @@
-# Need help? Check out the following material.
+# Need help? Check out the following. If your question isn't here, ask me in the meeting!
 
-**Creating a Game Object**
+**I don't know how to navigate the scene.**
 
-**Creating a C# Script**
+**How do I create a game object?**
 
-**How to add a behavioural component**
+**How do I create a C# script?**
+
+**How do I add behavioural components to a game object?**
+
+
 
