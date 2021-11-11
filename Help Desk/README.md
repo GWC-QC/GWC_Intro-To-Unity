@@ -19,7 +19,7 @@ Those are the only important ones you'll be using predominantly in the workshop.
 ---
 ### **I don't know how to edit a Unity C# Script**
 
-You can use any code editting software to edit C# scripts. In this demo, I show that you can open your code using Visual Studio 2019 Community Edition which Unity will default to if installed, Atom which is available for Mac, and Visual Studio Code which you can use in Windows. 
+You can use any code editting software to edit C# scripts. In this demo, I show that you can open your code using Visual Studio 2019 Community Edition which Unity will default to if installed, Atom which is available for Mac, and Visual Studio Code which you can use in Windows. Everytime you modify your script in a code editor, save it and Unity will automatically recompile the scripts to check for errors.
 
 https://user-images.githubusercontent.com/77137171/141368811-136fa39a-3706-44db-a827-371e1c036d24.mp4
 
