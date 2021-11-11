@@ -1,4 +1,4 @@
-# Need help? Check out the following. If your question isn't here, ask me in the meeting!
+# Need help? Check out the following. If your question isn't here, ask me in the meeting or before it!
 
 ---
 ### **My project won't load / I can't download Unity Hub / Any concerns about setting up.**
