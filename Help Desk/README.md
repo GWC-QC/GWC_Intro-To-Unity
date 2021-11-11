@@ -17,6 +17,14 @@ Those are the only important ones you'll be using predominantly in the workshop.
 ![image](https://user-images.githubusercontent.com/77137171/141366182-cb8c1b89-2fa6-4ff4-97f6-07f2f5efafbf.png)
 
 ---
+### **I don't know how to edit a Unity C# Script**
+
+You can use any code editting software to edit C# scripts. In this demo, I show that you can open your code using Visual Studio 2019 Community Edition which Unity will default to if installed, Atom which is available for Mac, and Visual Studio Code which you can use in Windows. 
+
+https://user-images.githubusercontent.com/77137171/141368811-136fa39a-3706-44db-a827-371e1c036d24.mp4
+
+
+---
 ### **How do I create a game object?**
 
 Right click an empty spot in the hierarchy tab, and select 'create'.
