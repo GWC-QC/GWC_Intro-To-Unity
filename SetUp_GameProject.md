@@ -1,12 +1,12 @@
 # Set up your game project
 
-1. To prepare to move assets into your workshop game project, create a new game project. Select 'New'
+1. To prepare to move assets into your workshop game project, create a new game project. Select 'New'. If you have multiple versions, select the arrow to select the right version.
 
 ![image](https://user-images.githubusercontent.com/77137171/141345849-0ac6d85f-1f5e-4828-8288-50fa2829543c.png)
 
-2. You'll see a pop up for picking a template for your game. Select 2D, and name your project however you like. The name of the game is 'Yarnball Chase.' Save your game project in a folder you can access freely later, it'll be important!
+2. You'll see a pop up for picking a template for your game. Select 2D, and name your project however you like. The name of the game is 'Yarnball Chase.' Save your game project in a folder you can access freely later, it'll be important! Click create, and Unity will set up the game project.
 
-![image](https://user-images.githubusercontent.com/77137171/141345967-138387bd-5a81-4489-8fe4-2ae47b93cc27.png)
+![image](https://user-images.githubusercontent.com/77137171/141369323-da2d85a5-62f9-4f6a-ab57-8d7ef545a37b.png)
 
 3. You will see something like this, let it start up.
 
