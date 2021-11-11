@@ -3,7 +3,7 @@
 ---
 ### **My project won't load / I can't download Unity Hub / Any concerns about setting up.**
 
-I'm more than happy to help guide you through the process, but please check out the other documents I've provided first. If you hit an error that's not addressed, feel free to contact me and we can discuss it. I won't be able to help with this 
+I'm more than happy to help guide you through the process, but please check out the other documents I've provided first. If you hit an error that's not addressed, feel free to contact me and we can discuss it. I won't be able to help with this during the workshop.
 
 ---
 ### **I don't know how to navigate the scene view.**
