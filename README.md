@@ -10,5 +10,6 @@ Game Development runs the world in entertainment! From IOS games to PC games, Un
 * Create a short 2D game!
 
 **Before you attend:**
-* See the pre-requisites document, and follow the installation instructions for the Unity Hub and version.
-* Download the supplied folder containing workshop contents
+* Know the basics of programming [loops, predicates, etc.], you do not need to be adept at C# to follow this workshop. 
+* Download Unity Hub and the required version for this workshop. See installation instructions.
+* Download the workshop folder containing all of the game assets you will need for the workshop.
