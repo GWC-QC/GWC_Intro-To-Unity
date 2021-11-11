@@ -1,4 +1,5 @@
 # GWC Intro To Unity & Game Development
+### *November 19th 2021 via Zoom, 12:00PM - 1:40PM*
 
 Game Development runs the world in entertainment! From IOS games to PC games, Unity is one of the top game development platforms available for free. Learn what encompasses game development, the basics of navigating the Unity interface, and creating your first C# script for Unity! You will leave the workshop with the basics, and a short 2D game. 
 
