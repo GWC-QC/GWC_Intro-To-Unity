@@ -35,6 +35,6 @@ Game Development runs the world in entertainment! From IOS games to PC games, Un
 
 ![image](https://user-images.githubusercontent.com/77137171/141344866-353cfc29-3a11-4d58-a300-976506af1377.png)
 
-6. Finally, sit back and relax while your download finishes. You'll be able to create projects using that version, which will be reviewed in the next section.
+6. Finally, sit back and relax while your download finishes. You'll be able to create projects using that version, which will be reviewed SetUp_GameProject.md .
 
 ---
