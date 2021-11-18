@@ -6,5 +6,5 @@
 
 Thank you!
 
-If you want to use it for your future projects, please download it directly from the distributor. 
+If you want to use the font for your future projects, please download it directly from the distributor. 
 https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
