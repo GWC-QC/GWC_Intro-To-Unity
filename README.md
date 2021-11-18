@@ -13,7 +13,7 @@ Game Development runs the world in entertainment! From IOS games to PC games, Un
 **Before you attend:**
 * Know the basics of programming [loops, predicates, etc.], you do not need to be adept at C# to follow this workshop. 
 * Download Unity Hub and the required version for this workshop. See installation instructions below.
-* Follow instructions for the SetUp_GameProject.md file and then DownloadWorkShopFolder.md file. You need to have the workshop folder installed, and your game project ready to be modified, before the workshop day.
+* Follow instructions for the **SetUp_GameProject.md** file and then **DownloadWorkShopFolder.md** file. You need to have the workshop folder installed, and your game project ready to be modified, before the workshop day.
 ---
 # Unity Installation Instructions
 *Note, this workshop has been mainly optimized for Mac and Windows support.*
